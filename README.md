@@ -71,3 +71,7 @@ Manager را باز کن و ScreenGuard را ببند؛ با بسته‌شدن �
 `SendInput`/`mouse_event`) فلگ injected ندارد و در حالت قفل بلاک می‌شود.
 ابزارهای معمولِ حرکت‌دهنده‌ی ماوس و اتوکلیکرها از `SendInput` استفاده می‌کنند و
 عبور می‌کنند.
+
+## License
+
+Free for personal, educational and research use. **Commercial use (selling, publishing the app in a store, or using it in a paid product) is not allowed without written permission.** See `LICENSE` (PolyForm Noncommercial 1.0.0).
